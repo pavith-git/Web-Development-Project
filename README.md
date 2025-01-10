@@ -9,11 +9,15 @@ Navigation: Clear and easy-to-use navigation menu.
 
 Collections & New Arrivals: Sections for viewing different product categories and new arrivals.
 
-Technologies Used
+Technologies Used:
+
 HTML: Structured the layout and content of the pages.
+
 CSS: Used for styling, including custom layouts and responsive design.
+
 JavaScript: Implemented dynamic functionality like product search.
 
-How to Use
+How to Use:
+
 Clone the repository or download the file.
 Open the index.html file in a web browser to view the website.
