@@ -1,4 +1,3 @@
-E-Commerce Website
 This is a front-end e-commerce website built using HTML, CSS, and JavaScript. The website provides a user-friendly interface for browsing products, viewing collections, and interacting with various sections like a service section, new arrivals, and more.
 
 Features:
