@@ -1,0 +1,72 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Wise</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="buywisestyle.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+</head>
+<body>
+    <nav class="navbar">
+        <h1>Buy Wise</h1>
+
+        <div class="navbar-links">
+            <p class="navbar-link"><a href="index.html">Home</a></p>
+            <p class="navbar-link"><a href="collection.html">Collections</a></p>
+            <p class="navbar-link"><a href="contact.html">Contact</a></p>
+        </div>
+        <div class="navbar-menu-toggle" onclick="shownav()">
+            <i class="fas fa-bars"></i>
+        </div>
+    </nav>
+    <!--side Navbar-->
+    <div class="side-navbar">
+        <p style="text-align: right; cursor: pointer;" onclick="hidenav()">
+            <i class="fa-solid fa-xmark"></i>
+        </p>
+        <div class="side-navbar-links">
+            <p class="side-navbar-link"><a href="index.html">Home</a></p>
+            <p class="side-navbar-link"><a href="collection.html">Collections</a></p>
+            <p class="side-navbar-link"><a href="contact.html">Contact</a></p>
+        </div>
+    </div>
+
+<!--contact-->
+<div class="contact">
+    <div class="contact-container">
+        <div class="contact-box-1">
+            <h2>Contact Us</h2>
+            <p>For any queries, feel free to contact us</p>
+        </div>
+        <div class="contact-box-2">
+            <form>
+                <input type="text" placeholder="Name">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Message"></textarea>
+                <button>Submit</button>
+            </form>
+        </div>
+    </div>
+
+<!--Footer-->
+<div class="footer">
+    <div class="footer-container">
+        <div class="footer-box-1">
+            <h3>Buy Wise</h3>
+            <p>Leading Online Store for All Your Fashion Needs!</p>
+            <div class="footer-icon-container">
+                <i class="fab fa-facebook" style="color: #ffffff;"></i>
+                <i class="fab fa-instagram" style="color: #ffffff;"></i>
+                <i class="fab fa-twitter" style="color: #ffffff;"></i>
+            </div>
+        </div>
+    </div>
+    <p>&copy; 2025  Buy Wise. All Rights Reserved</p>
+</div>
+    
+    
+<script src="buywisescript.js"></script>             
+</body>
+</html>
