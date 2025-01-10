@@ -3,11 +3,6 @@ This is a front-end e-commerce website built using HTML, CSS, and JavaScript. Th
 Responsive Design: The website is fully responsive and works well on desktop and mobile devices.
 Interactive Elements: Buttons, links, and hover effects are integrated to enhance user experience.
 
-Product Search: A search bar to filter products by name (JavaScript functionality).
-
-Navigation: Clear and easy-to-use navigation menu.
-
-Collections & New Arrivals: Sections for viewing different product categories and new arrivals.
 
 Technologies Used:
 
