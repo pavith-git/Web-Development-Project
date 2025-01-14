@@ -20,9 +20,7 @@ jobs:
         with:
           node-version: '16'
 
-      # Step 3: Install dependencies (skip if no package.json)
-      - name: Install dependencies
-        run: npm install
+      # Step 3: Install dependencies (skipped)
 
       # Step 4: Build the project (optional for static websites)
       - name: Build project
