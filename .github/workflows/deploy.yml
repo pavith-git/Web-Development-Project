@@ -23,8 +23,8 @@ jobs:
       # Step 3: Install dependencies (skipped)
 
       # Step 4: Build the project (optional for static websites)
-      - name: Build project
-        run: npm run build  # Replace with your build script if applicable
+     # - name: Build project
+       # run: npm run build(skipped)  # Replace with your build script if applicable
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
